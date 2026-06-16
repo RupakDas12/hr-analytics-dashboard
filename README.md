@@ -8,7 +8,7 @@ DetailInfoToolTableau DesktopEmployees1,470FocusAttrition, KPI tracking, demogra
 
 Dashboard Preview
 
-Show Image
+![HR Analytics Dashboard](hr-dashboard.png)
 
 Key Findings
 
